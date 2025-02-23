@@ -12,7 +12,7 @@ The project is managed with **GitHub branching**, where each **Use Case (UC1 - U
 ## 🚀 **How to Use This Repository**
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-github-username/Employee_Wage.git
+   git clone  https://github.com/Aniket19c/Employee_Wage.git
    ```
 2. Navigate into the project folder:  
    ```sh
